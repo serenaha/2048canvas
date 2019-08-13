@@ -1,0 +1,35 @@
+body,p,div,span{
+    margin:0;
+    padding:0;
+}
+canvas{
+    /*border:1px solid red;*/
+    display:block;
+    background:rgb(190,172,161);
+    margin:50px auto;
+}
+/*.wrap span{*/
+    /*font-size:80px;*/
+    /*color:dimgrey;*/
+    /*font-weight:100;*/
+
+
+/*}*/
+/*p{*/
+    /*font-weight:bolder;*/
+/*}*/
+/*.wrap #score{*/
+    /*width:80px;*/
+    /*border-radius:5px;*/
+    /*height:60px;*/
+    /*line-height:30px;*/
+    /*font-size:20px;*/
+    /*text-align:center;*/
+    /*font-weight:bolder;*/
+    /*color:gray;*/
+    /*background:rgb(190,172,161);*/
+/*}*/
+/*#score>div:nth-child(2){*/
+    /*color:white;*/
+    /*font-weight:bolder;*/
+/*}*/
